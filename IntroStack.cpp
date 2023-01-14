@@ -15,7 +15,7 @@
         2) Given a Can and balls Indside it to get the ball
          at the bottom we first have to take out all the balls above it.
 
-
+        If we want to Reverse Something at it into a Stack and we pop it we get it in reverse order
 
 
 
