@@ -139,7 +139,7 @@ int main(){
     push(&st,40);
     push(&st,50);
     
-  
+    cout<<"Element at index is:"<<peek(st,3)<<endl;
     cout<<"Remaining Stack is:"<<endl;
     display(st);
     return 0;
