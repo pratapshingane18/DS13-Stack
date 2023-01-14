@@ -134,10 +134,13 @@ int main(){
 
     push(&st,10);
     push(&st,20);
+    cout<<"Value poped from the Stack is:"<<pop(&st)<<endl;
     push(&st,30);
     push(&st,40);
     push(&st,50);
     
+  
+    cout<<"Remaining Stack is:"<<endl;
     display(st);
     return 0;
 }
