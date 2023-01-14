@@ -14,6 +14,15 @@ struct Stack{
     int *s; // pointer to an array.
 }
 
+
+*** Important ***
+Condition for stack to be Empty:
+top == -1;
+Condition for stack to be full:
+top == size -1;
+ 
+
+
 int main(){
     struct Stack st;
     cout<<"Enter Stack Size"<<endl;
