@@ -8,7 +8,7 @@
 // struct Node{
 //     int data;
 //     struct Node *next;
-// }top=NULL;
+// }*top=NULL;
 
 // void push(int x){
 //     struct Node *t;
